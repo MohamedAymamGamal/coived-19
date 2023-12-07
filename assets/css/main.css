@@ -969,21 +969,3 @@
     }
 
 }
-@media (max-width: 320px){
-    .logo {
-        width: 38%;
-    }
-    .sec5 {
-        width: 120%;
-    }
-    .footer-text1 {
-        & h2 {
-          font-size: 25px;
-          margin-top: 22px;
-        }
-    }
-    .nav {
-        
-        margin: -27px 71px 10px 10px;
-      }
-}
